@@ -1,2 +1,4 @@
 # flutter_logo
- Exercico Flutter Logo Aumentar e reduzir do flutterparainiciantes
+ Exercicio Flutter Logo Aumentar e reduzir do flutterparainiciantes
+
+ https://www.flutterparainiciantes.com.br/basico/stateless-stateful
